@@ -99,6 +99,6 @@ ignore:
 theme: landscape
 
 # Deployment
-## Docs: https://soleast.github.io/
+## Docs: https://github.com/soleast/soleast.github.io
 deploy:
   type: ''
